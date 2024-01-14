@@ -9,7 +9,6 @@ Welcome to the Insect Clicker Game repository! This web-based clicker game is bu
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -20,11 +19,6 @@ Welcome to the Insect Clicker Game repository! This web-based clicker game is bu
 - Simple and addictive insect-clicking gameplay.
 - Track the number of clicks to measure your success.
 - Responsive design for various screen sizes.
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-<!-- Add more screenshots as needed -->
 
 ## Getting Started
 
@@ -60,10 +54,6 @@ Contributions are welcome! Follow these steps to contribute to the project:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
